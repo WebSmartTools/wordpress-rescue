@@ -1,4 +1,5 @@
 # wordpress-rescue
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/websmarttools/wordpress-rescue)
 
 Diagnose and fix WordPress errors from the actual debug.log, with a safe rollback procedure.
 
